@@ -1,8 +1,8 @@
-# 📘 Rozebrání počítače a popis jeho komponent
+# Rozebrání počítače a popis jeho komponent
 
 Tento projekt slouží jako ročníková práce, ve které rozebírám stolní počítač, dokumentuji jeho vnitřní části a popisuji funkci každé komponenty. Cílem je porozumět tomu, jak počítač funguje, jak spolu jednotlivé části komunikují a jaký mají význam pro jeho výkon.
 
-## 🎯 Cíle projektu
+## Cíle projektu
 
 - Rozebrat počítač bezpečným způsobem
 - Každou komponentu nafotit a popsat
@@ -10,7 +10,7 @@ Tento projekt slouží jako ročníková práce, ve které rozebírám stolní p
 - Vytvořit přehlednou dokumentaci v Markdownu
 - Výsledky zveřejnit zde na GitHubu
 
-## 🧩 Popisované komponenty
+## Popisované komponenty
 
 - V projektu postupně dokumentuji tyto části počítače:
 - Základní deska (Motherboard)

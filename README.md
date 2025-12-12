@@ -5,10 +5,8 @@ Tento projekt slouží jako ročníková práce, ve které rozebírám stolní p
 ## Cíle projektu
 
 - Rozebrat počítač bezpečným způsobem
-- Každou komponentu nafotit a popsat
+- Každý komponent nafotit a popsat
 - Vysvětlit její funkci, parametry a propojení s ostatními částmi
-- Vytvořit přehlednou dokumentaci v Markdownu
-- Výsledky zveřejnit zde na GitHubu
 
 ## Popisované komponenty
 

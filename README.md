@@ -1,4 +1,4 @@
-# Rozebrání počítače a popis jeho komponent
+# Rozebrání počítače a popis jeho komponentů
 
 Tento projekt slouží jako ročníková práce, ve které rozebírám stolní počítač, dokumentuji jeho vnitřní části a popisuji funkci každé komponenty. Cílem je porozumět tomu, jak počítač funguje, jak spolu jednotlivé části komunikují a jaký mají význam pro jeho výkon.
 

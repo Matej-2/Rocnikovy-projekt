@@ -5,17 +5,14 @@
 ## **Obsah**
 - [Úvod](#úvod)
 - [Cíle projektu](#cíle-projektu)
-- [Komponenty](#komponenty)
-  - [🖥️ Základní deska (Motherboard)](components/motherboard.md)
-  - [🧠 Procesor (CPU)](components/cpu.md)
-  - [💾 Operační paměť (RAM)](components/ram.md)
-  - [🎮 Grafická karta (GPU)](components/gpu.md)
-  - [🗄️ Úložiště (SSD / HDD)](components/storage.md)
-  - [⚡ Zdroj (PSU)](components/psu.md)
-  - [❄️ Chlazení a ventilátory](components/cooling.md)
-- [Struktura projektu](#struktura-projektu)
-- [Použité nástroje](#použité-nástroje)
-- [Proč projekt vznikl](#proč-projekt-vznikl)
+- [Komponenty](#Komponenty)
+  - [🖥️ Základní deska (Motherboard)](Komponenty/Motherboard.md)
+  - [🧠 Procesor (CPU)](Komponenty/CPU.md)
+  - [💾 Operační paměť (RAM)](Komponenty/RAM.md)
+  - [🎮 Grafická karta (GPU)](Komponenty/GPU.md)
+  - [🗄️ Úložiště (SSD / HDD)](Komponenty/Storage.md)
+  - [⚡ Zdroj (PSU)](Komponenty/PSU.md)
+  - [❄️ Chlazení a ventilátory](Komponenty/Cooling.md)
 
 ---
 
@@ -39,11 +36,11 @@ Každá komponenta má svůj vlastní soubor s podrobnými informacemi a fotogra
 
 | Ikona | Komponenta | Popis |
 |-------|------------|-------|
-| 🖥️ | [Motherboard](components/motherboard.md) | Základní deska, propojuje všechny části počítače |
-| 🧠 | [CPU](components/cpu.md) | Procesor – mozek počítače |
-| 💾 | [RAM](components/ram.md) | Operační paměť pro rychlý přístup k datům |
-| 🎮 | [GPU](components/gpu.md) | Grafická karta, zpracovává obraz a 3D grafiku |
-| 🗄️ | [Úložiště](components/storage.md) | SSD / HDD, uchovává data a OS |
-| ⚡ | [PSU](components/psu.md) | Zdroj, napájí všechny komponenty |
-| ❄️ | [Chlazení](components/cooling.md) | Ventilátory a chladiče, udržují teploty bezpečné |
+| 🖥️ | [Motherboard](Komponenty/Motherboard.md) | Základní deska, propojuje všechny části počítače |
+| 🧠 | [CPU](Komponenty/CPU.md) | Procesor – mozek počítače |
+| 💾 | [RAM](Komponenty/RAM.md) | Operační paměť pro rychlý přístup k datům |
+| 🎮 | [GPU](Komponenty/GPU.md) | Grafická karta, zpracovává obraz a 3D grafiku |
+| 🗄️ | [Úložiště](Komponenty/Storage.md) | SSD / HDD, uchovává data a OS |
+| ⚡ | [PSU](Komponenty/PSU.md) | Zdroj, napájí všechny komponenty |
+| ❄️ | [Chlazení](Komponenty/Cooling.md) | Ventilátory a chladiče, udržují teploty bezpečné |
 

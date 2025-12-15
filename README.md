@@ -71,8 +71,3 @@ Každý komponent má svůj vlastní soubor s podrobnými informacemi a fotograf
 ## Zdroje
 -Používal jsem chatboty: Chatgpt
 
----
-
-## Licence
-Tento projekt je licencován pod licencí [MIT](LICENSE.md).
-

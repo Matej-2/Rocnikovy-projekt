@@ -25,7 +25,6 @@
   - [⚡ Zdroj (PSU)](components/psu.md)
   - [❄️ Chlazení a ventilátory](components/cooling.md)
 - [Zdroje](#zdroje)
-- [Licence](#licence)
 
 ---
 

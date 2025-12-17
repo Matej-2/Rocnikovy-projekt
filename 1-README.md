@@ -68,5 +68,5 @@ Každý komponent má svůj vlastní soubor s podrobnými informacemi a fotograf
 ---
 
 ## Zdroje
--Používal jsem chatboty: Chatgpt
+-Používal jsem AI Chatgpt.
 

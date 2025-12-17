@@ -17,13 +17,6 @@
 - [Cíle projektu](#cíle-projektu)
 - [Postup práce](#postup-práce)
 - [Komponenty](#komponenty)
-  - [🖥️ Základní deska (Motherboard)](components/motherboard.md)
-  - [🧠 Procesor (CPU)](components/cpu.md)
-  - [💾 Operační paměť (RAM)](components/ram.md)
-  - [🎮 Grafická karta (GPU)](components/gpu.md)
-  - [🗄️ Úložiště (SSD / HDD)](components/storage.md)
-  - [⚡ Zdroj (PSU)](components/psu.md)
-  - [❄️ Chlazení a ventilátory](components/cooling.md)
 - [Zdroje](#zdroje)
 
 ---
@@ -55,15 +48,15 @@ Cílem je porozumět tomu, jak počítač funguje, jak spolu jednotlivé části
 ## Komponenty
 Každý komponent má svůj vlastní soubor s podrobnými informacemi a fotografiemi:
 
-| Ikona | Komponent | Popis |
-|-------|------------|-------|
-| 🖥️ | [Motherboard](Komponenty/Motherboard.md) | Základní deska, propojuje všechny části počítače |
-| 🧠 | [CPU](Komponenty/CPU.md) | Procesor – mozek počítače |
-| 💾 | [RAM](Komponenty/RAM.md) | Operační paměť pro rychlý přístup k datům |
-| 🎮 | [GPU](Komponenty/GPU.md) | Grafická karta, zpracovává obraz a 3D grafiku |
-| 🗄️ | [Úložiště](Komponenty/Storage.md) | SSD / HDD, uchovává data a OS |
-| ⚡ | [PSU](Komponenty/PSU.md) | Zdroj, napájí všechny komponenty |
-| ❄️ | [Chlazení](Komponenty/Cooling.md) | Ventilátory a chladiče, udržují teploty bezpečné |
+| Ikona | Komponent | Základní vysvětlení |
+|------|------------|--------------------|
+| 🖥️ | [Motherboard](Komponenty/motherboard.md) | Základní deska propojuje všechny části počítače a umožňuje jim spolu komunikovat. |
+| 🧠 | [CPU](Komponenty/cpu.md) | Procesor je hlavní část počítače, která zpracovává všechny výpočty a příkazy. |
+| 💾 | [RAM](Komponenty/ram.md) | Operační paměť slouží k dočasnému ukládání dat, se kterými počítač právě pracuje. |
+| 🎮 | [GPU](Komponenty/gpu.md) | Grafická karta se stará o zpracování obrazu a výkon ve hrách nebo programech. |
+| 🗄️ | [Úložiště](Komponenty/storage.md) | Úložiště slouží k ukládání dat, programů a operačního systému. |
+| ⚡ | [PSU](Komponenty/psu.md) | Zdroj napájí všechny komponenty počítače elektrickou energií. |
+| ❄️ | [Chlazení](Komponenty/cooling.md) | Chlazení odvádí teplo z komponent a zabraňuje jejich přehřívání. |
 
 ---
 

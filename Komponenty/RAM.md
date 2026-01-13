@@ -4,7 +4,7 @@
 *(bude doplněno po rozebrání)*
 
 ## Základní informace
-- Kapacita:
+- Kapacita: 
 - Typ (DDR3 / DDR4 / DDR5):
 - Frekvence:
 - Počet modulů:

@@ -20,10 +20,20 @@ Když byly všechny šroubky venku, opatrně jsem sundal spodní kryt (pomocí p
 V mém notebooku je slot typu **M.2**, což je úzký konektor pro moderní SSD disky.  
 SSD disk má na jedné straně výřez, takže jde zasunout jen jedním směrem.
 
+<figure>
+  <img src="DOKUMENTACE/4c3b6f1a-feff-4776-b523-44d27c0a9ede.jpeg" alt="Schéma">
+  <figcaption align="center"><i>popis</i></figcaption>
+</figure>
+
 **Postup:**
 1. SSD jsem zasunul do konektoru pod úhlem asi 30°.
 2. Jemně jsem ho přitlačil dolů.
 3. Přišrouboval jsem ho malým šroubkem, aby držel.
+
+<figure>
+  <img src="DOKUMENTACE/4c3b6f1a-feff-4776-b523-44d27c0a9ede.jpeg" alt="Schéma">
+  <figcaption align="center"><i>popis</i></figcaption>
+</figure>
 
 ---
 

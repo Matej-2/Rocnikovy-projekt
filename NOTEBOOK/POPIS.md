@@ -8,10 +8,8 @@ V této části popisuju, jak jsem do svého notebooku přidal nový SSD disk. P
 
 <figure>
   <img src="DOKUMENTACE/4c3b6f1a-feff-4776-b523-44d27c0a9ede.jpeg" alt="Schéma">
-  <figcaption align="center"><i>Nejdřív jsem notebook vypnul a odpojil od nabíječky. Potom jsem odšrouboval všechny šroubky na spodní straně. Některé notebooky mají ještě západky nebo skryté šroubky pod gumovými nožičkami.</i></figcaption>
+  <figcaption align="center"><i>Nejdřív jsem notebook vypnul a odpojil od nabíječky. Potom jsem odšrouboval všechny šroubky na spodní straně. Některé notebooky mají ještě západky nebo skryté šroubky pod gumovými nožičkami. Když byly všechny šroubky venku, opatrně jsem sundal spodní kryt (pomocí plastové karty, aby se nic nepoškrábalo). Po otevření jsem našel volný slot pro SSD disk..</i></figcaption>
 </figure>
-
-Když byly všechny šroubky venku, opatrně jsem sundal spodní kryt (pomocí plastové karty, aby se nic nepoškrábalo). Po otevření jsem našel volný slot pro SSD disk.
 
 ---
 
@@ -25,10 +23,10 @@ SSD disk má na jedné straně výřez, takže jde zasunout jen jedním směrem.
 
 <figure>
   <img src="DOKUMENTACE/7a2ca20b-e92a-46f6-8b14-c806918881b0.jpeg" alt="Schéma">
-  <figcaption align="center"><i>**Postup:**
-1. SSD jsem zasunul do konektoru pod úhlem asi 30°.
-2. Jemně jsem ho přitlačil dolů.
-3. Přišrouboval jsem ho malým šroubkem, aby držel.</i></figcaption>
+  <figcaption align="center"><i>Postup:
+SSD jsem zasunul do konektoru pod úhlem asi 30°.
+Jemně jsem ho přitlačil dolů.
+Přišrouboval jsem ho malým šroubkem, aby držel.</i></figcaption>
 </figure>
 
 ---

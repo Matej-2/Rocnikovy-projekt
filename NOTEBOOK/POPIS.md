@@ -21,6 +21,8 @@ V této části popisuju, jak jsem do svého notebooku přidal nový SSD disk. P
 SSD disk má na jedné straně výřez, takže jde zasunout jen jedním směrem.</i></figcaption>
 </figure>
 
+---
+
 <figure>
   <img src="DOKUMENTACE/7a2ca20b-e92a-46f6-8b14-c806918881b0.jpeg" alt="Schéma">
   <figcaption align="center"><i>Postup:

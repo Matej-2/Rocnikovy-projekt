@@ -21,7 +21,7 @@ V mém notebooku je slot typu **M.2**, což je úzký konektor pro moderní SSD 
 SSD disk má na jedné straně výřez, takže jde zasunout jen jedním směrem.
 
 <figure>
-  <img src="DOKUMENTACE/4c3b6f1a-feff-4776-b523-44d27c0a9ede.jpeg" alt="Schéma">
+  <img src="DOKUMENTACE/411ba4db-f96a-498b-b1b1-6a6b19f9a975.jpeg" alt="Schéma">
   <figcaption align="center"><i>popis</i></figcaption>
 </figure>
 

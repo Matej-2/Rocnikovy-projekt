@@ -7,12 +7,12 @@ V této části popisuju, jak jsem do svého notebooku přidal nový SSD disk. P
 ## 🔧 1. Otevření notebooku
 Nejdřív jsem notebook vypnul a odpojil od nabíječky. Potom jsem odšrouboval všechny šroubky na spodní straně. Některé notebooky mají ještě západky nebo skryté šroubky pod gumovými nožičkami.
 
-Když byly všechny šroubky venku, opatrně jsem sundal spodní kryt (pomocí plastové karty, aby se nic nepoškrábalo). Po otevření jsem našel volný slot pro SSD disk.
-
 <figure>
   <img src="DOKUMENTACE/4c3b6f1a-feff-4776-b523-44d27c0a9ede.jpeg" alt="Schéma">
   <figcaption align="center"><i>popis</i></figcaption>
 </figure>
+
+Když byly všechny šroubky venku, opatrně jsem sundal spodní kryt (pomocí plastové karty, aby se nic nepoškrábalo). Po otevření jsem našel volný slot pro SSD disk.
 
 ---
 

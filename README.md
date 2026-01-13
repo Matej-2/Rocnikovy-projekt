@@ -17,6 +17,7 @@
 - [Cíle projektu](#cíle-projektu)
 - [Postup práce](#postup-práce)
 - [Komponenty](#komponenty)
+- [Notebook – přidání SSD](NOTEBOOK/POPIS.md)
 - [Zdroje](#zdroje)
 
 ---

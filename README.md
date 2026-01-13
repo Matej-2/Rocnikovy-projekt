@@ -50,13 +50,13 @@ Každý komponent má svůj vlastní soubor s podrobnými informacemi a fotograf
 
 | Ikona | Komponent | Základní vysvětlení |
 |------|------------|--------------------|
-| 🖥️ | [Motherboard](Komponenty/motherboard.md) | Základní deska propojuje všechny části počítače a umožňuje jim spolu komunikovat. |
-| 🧠 | [CPU](Komponenty/cpu.md) | Procesor je hlavní část počítače, která zpracovává všechny výpočty a příkazy. |
-| 💾 | [RAM](Komponenty/ram.md) | Operační paměť slouží k dočasnému ukládání dat, se kterými počítač právě pracuje. |
-| 🎮 | [GPU](Komponenty/gpu.md) | Grafická karta se stará o zpracování obrazu a výkon ve hrách nebo programech. |
-| 🗄️ | [Úložiště](Komponenty/storage.md) | Úložiště slouží k ukládání dat, programů a operačního systému. |
-| ⚡ | [PSU](Komponenty/psu.md) | Zdroj napájí všechny komponenty počítače elektrickou energií. |
-| ❄️ | [Chlazení](Komponenty/cooling.md) | Chlazení odvádí teplo z komponent a zabraňuje jejich přehřívání. |
+| 🖥️ | [Motherboard](Komponenty/Motherboard.md) | Základní deska propojuje všechny části počítače a umožňuje jim spolu komunikovat. |
+| 🧠 | [CPU](Komponenty/CPU.md) | Procesor je hlavní část počítače, která zpracovává všechny výpočty a příkazy. |
+| 💾 | [RAM](Komponenty/RAM.md) | Operační paměť slouží k dočasnému ukládání dat, se kterými počítač právě pracuje. |
+| 🎮 | [GPU](Komponenty/GPU.md) | Grafická karta se stará o zpracování obrazu a výkon ve hrách nebo programech. |
+| 🗄️ | [Úložiště](Komponenty/Storage.md) | Úložiště slouží k ukládání dat, programů a operačního systému. |
+| ⚡ | [PSU](Komponenty/PSU.md) | Zdroj napájí všechny komponenty počítače elektrickou energií. |
+| ❄️ | [Chlazení](Komponenty/Cooling.md) | Chlazení odvádí teplo z komponent a zabraňuje jejich přehřívání. |
 
 ---
 

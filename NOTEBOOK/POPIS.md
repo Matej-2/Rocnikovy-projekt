@@ -31,7 +31,7 @@ SSD disk má na jedné straně výřez, takže jde zasunout jen jedním směrem.
 3. Přišrouboval jsem ho malým šroubkem, aby držel.
 
 <figure>
-  <img src="DOKUMENTACE/4c3b6f1a-feff-4776-b523-44d27c0a9ede.jpeg" alt="Schéma">
+  <img src="DOKUMENTACE/7a2ca20b-e92a-46f6-8b14-c806918881b0.jpeg" alt="Schéma">
   <figcaption align="center"><i>popis</i></figcaption>
 </figure>
 

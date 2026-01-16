@@ -32,11 +32,9 @@ Přišrouboval jsem ho malým šroubkem, aby držel.</i></figcaption>
 </figure>
 
 <figure>
-  <img src="DOKUMENTACE/7a2ca20b-e92a-46f6-8b14-c806918881b0.jpeg" alt="Schéma">
-  <figcaption align="center"><i>Postup:
-SSD jsem zasunul do konektoru pod úhlem asi 30°.
-Jemně jsem ho přitlačil dolů.
-Přišrouboval jsem ho malým šroubkem, aby držel.</i></figcaption>
+  <img src="DOKUMENTACE/02942a0c-5534-47b5-ba2a-ffaaa608d5bd.jpeg" alt="Schéma">
+  <figcaption align="center"><i>
+.</i></figcaption>
 </figure>
 
 ---
